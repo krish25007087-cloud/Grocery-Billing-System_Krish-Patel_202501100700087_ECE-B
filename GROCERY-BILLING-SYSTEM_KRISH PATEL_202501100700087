@@ -1,3 +1,4 @@
+#KRISH PATEL_202501100700087_ECE-B
 items = int(input("Enter the number of items : "))
 print("\n")
 prices = []
